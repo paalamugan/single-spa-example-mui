@@ -1567,10 +1567,10 @@
     webpack-config-single-spa-react-ts "^4.0.3"
     webpack-config-single-spa-ts "^4.1.2"
 
-"@single-spa-example/webpack@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@single-spa-example/webpack/-/webpack-1.0.1.tgz#e59af29fb26fe6905b98b019e556ceb5a3e3468d"
-  integrity sha512-/ASldhF050iuh3Ft4wawtE2ZaTjSmUU7Vje1Qq5XY1JSOrzpwdDl2uo2eTW+OWTxHg83idFeLPshRTclpXwDqQ==
+"@single-spa-example/config@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@single-spa-example/config/-/config-1.0.0.tgz#a8271f75c64404e42d42062026edbea1d4f6c186"
+  integrity sha512-byN6TGBFP7jkgVZALr5NRew/FjVU0leob5YX5Jb8r+LILkpLt9R/84AG51poCzW+Yl81V0fHk3aQT0TaQRcGjQ==
   dependencies:
     autoprefixer "^10.4.7"
     babel-plugin-module-resolver "^4.1.0"
