@@ -1,4 +1,4 @@
-# @single-spa-example/mui
+# Single spa example mui
 
 Material UI theme Common components for the single spa application
 
@@ -12,15 +12,11 @@ yarn add -D @single-spa-example/react-mui
 
 ## Getting started
 
-```
 - Supported Node Engine
-
 ```
-
 node - v16.12.0
 yarn - 1.22.19
-
-````
+```
 
 - Install node_modules package for first time only
 
