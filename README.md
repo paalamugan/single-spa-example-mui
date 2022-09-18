@@ -7,37 +7,38 @@ Material UI theme Common components for the single spa application
 - Install as a node module package like
 
 ```sh
-yarn add -D @single-spa-example/react-mui
+  yarn add -D @single-spa-example/react-mui
 ```
 
 ## Getting started
 
 - Supported Node Engine
-```
-node - v16.12.0
-yarn - 1.22.19
+
+```sh
+  node - v16.12.0
+  yarn - 1.22.19
 ```
 
 - Install node_modules package for first time only
 
 ```sh
-yarn install
+  yarn install
 ````
 
 - Run application in development mode
 
 ```sh
-yarn start
+  yarn start
 ```
 
 - Run application as a standalone in development mode
 
 ```sh
-yarn start:standalone
+  yarn start:standalone
 ```
 
 - To build for production
 
 ```sh
-yarn build
+  yarn build
 ```
